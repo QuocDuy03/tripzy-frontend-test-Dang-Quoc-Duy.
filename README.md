@@ -86,4 +86,4 @@ The easiest way to deploy this Next.js app is to use the [Vercel Platform](https
 
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-**Demo Link**:
+**Demo Link**: [Vercel](https://tripzy-frontend-test-dang-quoc-duy.vercel.app)
